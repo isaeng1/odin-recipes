@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is for me to learn how to code. Primarily as a hobby, but maybe as something I'd want to work with as a career in the future. For now, I've been asked to make a website about recipes. Once I've shown I can do this, I've proven that I'm able to set up a git repository, making use of the command line. I'll also show that I can create a basic html website, likely demonstrating using of links, images, and lists.
